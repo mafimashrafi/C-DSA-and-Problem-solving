@@ -13,9 +13,9 @@ int main(){
             flag = 0;
             break;
         }
-        
     }
+
     if (flag == 1){
-        cout << n << " is a prime number";
+        cout << n << " is a prime number.";
     }
 }
