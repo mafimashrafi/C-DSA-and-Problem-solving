@@ -19,7 +19,7 @@ int main(){
     int k = 1;
     int m = n;
     for(; ;){
-        if(k<m){
+        if(k<=m){
             cout << k+5 << endl;
         }
         else{

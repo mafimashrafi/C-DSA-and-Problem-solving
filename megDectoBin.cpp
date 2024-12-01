@@ -15,6 +15,5 @@ int main(){
         n = n>> 1;
         i++;
     }
-    cout << i << endl;
     cout << ans;
 }
